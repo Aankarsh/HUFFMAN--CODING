@@ -25,10 +25,10 @@ print the characters and its huffmancode.
 ## Program:
 
 ``` Python
-# Name : JANARTHANAN K
-# Reg.No: 212223040072
+# Name : AANKARSH J
+# Reg.No: 212223233001
 # Step 1: Get the input string
-input_string = "JANARTHANAN K"  # Example input string
+input_string = "AANKARSH J"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
@@ -73,9 +73,16 @@ for char, code in huffman_codes.items():
 ## Output:
 
 ### Print the characters and its huffmancode
-<img width="262" height="228" alt="image" src="https://github.com/user-attachments/assets/fc453965-bc5e-497b-a939-3f1da1aa3227" />
-
-
+Character | Huffman Code
+-------------------------
+    R    |    000
+    S    |    001
+    H    |    010
+         |    011
+    A    |    10
+    J    |    110
+    N    |    1110
+    K    |    1111
 
 
 ## Result
