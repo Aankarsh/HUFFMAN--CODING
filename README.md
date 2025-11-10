@@ -25,8 +25,10 @@ print the characters and its huffmancode.
 ## Program:
 
 ``` Python
-# Name : AANKARSH J
-# Reg.No: 212223233001
+## Exp-11- Record-IMPLEMENTATION OF HUFFMAN CODING ##
+## NAME: AANKARSH J ##
+## REG.NO: 212223233001 ##
+
 # Step 1: Get the input string
 input_string = "AANKARSH J"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
